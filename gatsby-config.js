@@ -10,7 +10,7 @@ module.exports = {
     {
       resolve: "gatsby-source-poc-server",
       options: {
-        apiUrl: "http://bb325136c753.ngrok.io",
+        apiUrl: "http://7d4e8a01f70a.ngrok.io",
       },
     },
   ],
